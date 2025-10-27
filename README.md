@@ -28,5 +28,6 @@ This project simulates a real-time vehicle data monitoring system using an ETL (
 - Run the ETL pipeline:  
    ```bash
    python run_etl.py
-- streamlit run dashboard.py
+- ```bash
+  streamlit run dashboard.py
 
